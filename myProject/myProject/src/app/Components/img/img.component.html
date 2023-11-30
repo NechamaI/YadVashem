@@ -1,0 +1,6 @@
+<p>img works!</p>
+<div *ngFor="let img of imgsList ">
+<img *ngIf="img.type=='jpg'" [src]="img.name" width="50px" height="50px" />
+<div *ngIf="img.type=='no'">unloud{{img.name}}</div>
+</div>
+

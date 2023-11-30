@@ -1,0 +1,12 @@
+<p>home-page works!</p>
+<mat-drawer-container class="example-container">
+    <mat-drawer mode="side" opened> Drawer content
+        <app-files-bar *ngIf="loadAfterGetLocation" [location]="location"></app-files-bar>
+    </mat-drawer>
+    <mat-drawer-content>Main content
+        <br />
+        <div>
+            <app-img *ngIf="loadAfterGetLocation" ></app-img>
+        </div>
+    </mat-drawer-content>
+</mat-drawer-container>

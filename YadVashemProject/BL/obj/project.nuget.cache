@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aE4mVx61YDHEzM8nJ3bpfyPw3T0leFXO59/AlFp9ogKfjn2gGxM1ZWd69SaiBVpKErYu+0epTg4rp/xZh7souQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IMOE001\\Desktop\\nechama\\YadVashem\\YadVashemProject\\BL\\Bl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IMOE001\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\IMOE001\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\IMOE001\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\IMOE001\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\IMOE001\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\IMOE001\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
